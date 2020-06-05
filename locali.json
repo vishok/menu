@@ -1,0 +1,10 @@
+{
+    "count": 4,
+    "locali": [
+        {"image":"","category":"Ristorante","name": "Ristorante Stuzzichino", "address": "via del melo 25","latitude":"40","longitude":"15","openHours":["10:00","11:00","12:00"],"dinein":true,"takeaway":true,"delivery":false},
+        {"image":"","category":"Ristorante","name": "Ristorante Bei Tempi", "address": "via del melo 25","latitude":"40","longitude":"15","openHours":["10:00","11:00","12:00"],"dinein":true,"takeaway":true,"delivery":false},
+        {"image":"","category":"Ristorante","name": "Ristorante Don Alfonso", "address": "via del melo 25","latitude":"40","longitude":"15","openHours":["10:00","11:00","12:00"],"dinein":true,"takeaway":true,"delivery":false},
+        {"image":"","category":"Pizzeria","name": "Ristorante Bella Epoque", "address": "via del melo 25","latitude":"40","longitude":"15","openHours":["10:00","11:00","12:00"],"dinein":true,"takeaway":true,"delivery":false},
+    ],
+    "status": true
+}
